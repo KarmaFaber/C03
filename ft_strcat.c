@@ -26,7 +26,7 @@ char *ft_strcat(char *dest, char *src)
    }
     dest[j] = '\0';
     
-    return dest;
+    return (dest);
 }
 
 #include <stdio.h>
